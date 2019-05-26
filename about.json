@@ -1,0 +1,27 @@
+{
+  "name": "Birds and Berries",
+  "component": false,
+  "license_url": "https://github.com/t1-tracey/birds-and-berries-theme/blob/master/LICENSE",
+  "about_url": "https://github.com/t1-tracey/birds-and-berries-theme",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Bird and Berries": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "EC96A4",
+      "quaternary": "DFE166",
+      "header_background": "5D535E",
+      "header_primary": "ffffff",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
